@@ -1,22 +1,23 @@
 # 👋 Hi, I'm Andreas Maier  
 
-AI Engineer & Consultant | Focus: Machine Learning, MLOps, and Generative AI  
+**AI Engineer & Consultant** | Machine Learning • MLOps • Computer Vision • Generative AI  
 
-🎯 I build data-driven systems that connect industrial processes with AI innovation.  
-💡 Currently driving digital transformation at Schwarz IT with AI use cases in Computer Vision and Anomaly Detection.  
+🎯 I design and implement **AI-driven systems** that connect industrial processes with intelligent automation.  
+💡 Currently driving **digital transformation at Schwarz IT**, focusing on **Computer Vision** and **Anomaly Detection** in production environments.  
 
 ## 🔧 Tech Focus
-- Machine Learning (scikit-learn, PyTorch)
-- MLOps & Cloud (Kubernetes, STACKIT, GCP)
-- Computer Vision (Object Detection, Image Classification, Instance Segmentation, Semantic Segmentation)
-- Generative AI (RAG, LLMs, LangChain)
-- Data Architecture (Lakehouse, TimescaleDB)
+- **Machine Learning** (scikit-learn, PyTorch)
+- **MLOps & Cloud** (Kubernetes, STACKIT, GCP)
+- **Computer Vision** (Object Detection, Image Classification, Instance Segmentation, Semantic Segmentation)
+- **Generative AI** (RAG, LLMs, LangChain)
+- **Data Architecture** (Lakehouse, TimescaleDB)
 
-## 🚀 What I'm working on
-- Building public AI demo projects (Anomaly Detection, Vision AI, RAG)
-- Exploring architectures for AI-driven automation and efficiency
+## 🚀 Current Projects
+- Building public **AI demo projects** (Anomaly Detection, Vision AI, RAG)
+- Exploring **AI architectures** for automation and efficiency
 
-📫 Reach me via: [LinkedIn](https://www.linkedin.com/in/andreas-maier-ai/) or andreas.maier1997@yahoo.de
+📫 Reach me via [LinkedIn](https://www.linkedin.com/in/andreas-maier-ai/) or **andreas.maier1997@yahoo.de**
+
 <!--
 **Gutsn/Gutsn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
