@@ -8,6 +8,7 @@ AI Engineer & Consultant | Focus: Machine Learning, MLOps, and Generative AI
 ## 🔧 Tech Focus
 - Machine Learning (scikit-learn, PyTorch)
 - MLOps & Cloud (Kubernetes, STACKIT, GCP)
+- Computer Vision (Object Detection, Image Classification, Instance Segmentation, Semantic Segmentation)
 - Generative AI (RAG, LLMs, LangChain)
 - Data Architecture (Lakehouse, TimescaleDB)
 
